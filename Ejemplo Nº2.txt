@@ -1,0 +1,21 @@
+diary on
+var =1
+
+var =
+
+     1
+
+var =1;
+fprinf('hola')
+{Undefined function or variable 'fprinf'.
+} 
+fprintf('hola')
+holaclear
+var =1;
+hola = 'Soy un strping'
+
+hola =
+
+Soy un strping
+
+diary off
